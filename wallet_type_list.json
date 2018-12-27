@@ -1,0 +1,23 @@
+{
+  "code": 1,
+  "message": "查询成功",
+  "data": [
+    {
+      "walletTypeId": "ethereum",
+      "walletTypeName": "Ethereum",
+      "aliasName": "ETH",
+      "walletIcon": "https://assets.coingecko.com/coins/images/279/small/ethereum.png?1510040267",
+      "status": 1,
+      "children": [
+        {
+          "status": 1,
+          "accountId": "hitchain",
+          "accountName": "HitChain",
+          "accountAliasName": "HIT",
+          "accountIcon": "https://assets.coingecko.com/coins/images/5555/small/hitchain.png?1536744501",
+          "contractAddress": "0x7995ab36bB307Afa6A683C24a25d90Dc1Ea83566"
+        }
+      ]
+    }
+  ]
+}
