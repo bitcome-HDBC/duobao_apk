@@ -14,6 +14,7 @@
           "accountId": "hitchain",
           "accountName": "HitChain",
           "accountAliasName": "HIT",
+          "decimals":6,
           "accountIcon": "https://assets.coingecko.com/coins/images/5555/small/hitchain.png?1536744501",
           "contractAddress": "0x7995ab36bB307Afa6A683C24a25d90Dc1Ea83566"
         }
